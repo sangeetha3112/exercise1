@@ -40,6 +40,24 @@ nav li{
    font-size: 25px;
    text-align: center;
    font-family: 'Lobster', cursive;
+   box-sizing: border-box;
+   padding: 50px;
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing : border-box;
+}
+
+.heroColumn1{
+  box-sizing: border-box;
+  padding: 30px;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing : border-box;
+   background-color: #DAA6D8;
+   width: 900px;
+   height:300px;
+
+   font-size: 20px;
+   text-align: center;
+   font-family: 'Indie Flower', cursive;
 }
 
 .primary{
